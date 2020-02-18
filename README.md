@@ -3,7 +3,7 @@ A driver to make windows ignore Access Control when accessing files
 
 Usage:
 
-0. Enable test signing mode on your OC
+0. Enable test signing mode on your PC
 
 1. Install using the ini file
 
